@@ -1,0 +1,24 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.wikitude.phonegapsamples"
+    },
+    "com.wikitude.phonegap.wikitudeplugin": {
+      "PACKAGE_NAME": "com.wikitude.phonegapsamples"
+    },
+    "cordova-plugin-insomnia": {
+      "PACKAGE_NAME": "com.wikitude.phonegapsamples"
+    },
+    "cordova-plugin-file": {
+      "PACKAGE_NAME": "com.wikitude.phonegapsamples"
+    }
+  },
+  "dependent_plugins": {}
+}
